@@ -24,6 +24,12 @@ header {
         gap: 10px;
     }
 
+    .right{
+        flex-direction: row;
+        justify-content: flex-end;
+        gap: 10px
+    }
+
     .right #hp, .right img {
         vertical-align: middle;
     }
